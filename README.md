@@ -19,5 +19,5 @@
 
 
 <h3 align="center">
-  <a href="https://zxcvhq-zxcvhq.apps.okd4.csh.rit.edu/">website</a>
+  <a href="https://zxcvhq.dev/">website</a>
 </h3>
