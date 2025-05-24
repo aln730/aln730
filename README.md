@@ -1,4 +1,4 @@
-### Hi, I'm Arnav 🐧 👾
+### Hi, I'm AGawas 🐧 👾
 
 <p align="center">
 <strong>CS Major · CE Minor · Network Goblin™ · Microcontroller Menace</strong>
