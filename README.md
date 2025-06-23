@@ -12,7 +12,7 @@
   <strong>Microcontrollers:</strong> ESP32 · Raspberry Pi · Arduino
 </p>
 <h3 align="center">
-  <a href="https://zxcvhq.dev/">website</a>
+  <a href="https://zxcvhq.dev/">zxcvhq.dev</a>
 </h3>
 
 ---
@@ -26,5 +26,4 @@
   <img src="https://github.com/user-attachments/assets/496dfd80-eb53-446a-8302-1621d4bf8b4c" alt="cloud" width="120" />
   <img src="https://github.com/user-attachments/assets/33af1b18-3124-4c74-9712-7a8b052403f2" alt="chat" width="120" />
   <img src="https://github.com/user-attachments/assets/9f0ecac4-8862-4c63-b4e6-15ee0252c7ec" alt="nvidia" width="120" />
-  <img src="https://github.com/user-attachments/assets/73b9ce72-9e3f-4766-9807-cd580fea44a2" alt="cloud" width="120" />
 </div>
