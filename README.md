@@ -26,5 +26,5 @@
   <img src="https://github.com/user-attachments/assets/496dfd80-eb53-446a-8302-1621d4bf8b4c" alt="cloud" width="200" />
   <img src="https://github.com/user-attachments/assets/33af1b18-3124-4c74-9712-7a8b052403f2" alt="chat" width="200" />
   <img src="https://github.com/user-attachments/assets/9f0ecac4-8862-4c63-b4e6-15ee0252c7ec" alt="nvidia" width="200" />
-  <img src="https://github.com/user-attachments/assets/5ebc4952-3e5f-430f-9ff7-bc10209654cd" alt="chat2" width="200" />
+  <img src="https://github.com/user-attachments/assets/73b9ce72-9e3f-4766-9807-cd580fea44a2" alt="cloud" width="200" />
 </div>
