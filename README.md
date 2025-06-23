@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Languages:</strong> Python · Go · Java · C/C++ · SQL<br>
-  <strong>Interests:</strong> Embedded Systems · Networking · Real-time Systems · Cybersecurity <br>
+  <strong>Interests:</strong> Embedded Systems · Networking · Machine Learning · Operating Systems <br>
   <strong>Tools:</strong> Docker · OKDShift · WebSockets · Git · Kubernetes<br>
   <strong>Microcontrollers:</strong> ESP32 · Raspberry Pi · Arduino
 </p>
