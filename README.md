@@ -18,5 +18,10 @@
 ![vim](https://github.com/user-attachments/assets/08f1f930-ec86-4847-97b7-49b52037d837)
 ![something](https://github.com/user-attachments/assets/a3eafd3c-ab4f-4fbf-b4a4-68d44a2ba27c)
 ![lain](https://github.com/user-attachments/assets/f1321582-5ab1-4e95-800c-a0734d65b286)
+![distrowatch](https://github.com/user-attachments/assets/6c9be2ec-ce0f-4b3e-a278-0df690ff704a)
+![driver](https://github.com/user-attachments/assets/c979a0d3-88c8-4a83-a098-3e9d0e9a2362)
+![cloud](https://github.com/user-attachments/assets/496dfd80-eb53-446a-8302-1621d4bf8b4c)
+![chat](https://github.com/user-attachments/assets/33af1b18-3124-4c74-9712-7a8b052403f2)
+
 
 
