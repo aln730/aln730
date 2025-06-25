@@ -12,7 +12,7 @@
   <strong>Microcontrollers:</strong> ESP32 · Raspberry Pi · Arduino
 </p>
 <h3 align="center">
-  <a href="https://zxcvhq.dev/">zxcvhq.dev</a>
+  <a href="https://www.zxcvhq.dev/">zxcvhq.dev</a>
 </h3>
 
 ---
