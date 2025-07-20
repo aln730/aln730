@@ -26,6 +26,11 @@
 <a href="https://discord.com/channels/@me"><img src="https://github.com/user-attachments/assets/33af1b18-3124-4c74-9712-7a8b052403f2" alt="chat" width="120" /></a>
 <a href="https://forums.developer.nvidia.com/t/pytorch-and-torchvision-for-jetpack-6-2/325257/12"><img src="https://github.com/user-attachments/assets/9f0ecac4-8862-4c63-b4e6-15ee0252c7ec" alt="nvidia" width="120" /></a>
 
+
+
+
+
+
 <img width="35" height="71" alt="image" src="https://github.com/user-attachments/assets/ceaf14b3-b454-48b7-9875-567371e45e01" />
 <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/08f5d794-3d03-47db-9897-8ac282ff9b5b" />
 <img width="32" height="50" alt="image" src="https://github.com/user-attachments/assets/f71cfac9-c864-45eb-a412-735edc702bc8" />
