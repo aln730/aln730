@@ -6,6 +6,7 @@
   <a href="https://zxcvhq.dev/">zxcvhq.dev</a>
 </h3>
 ---
+
 <div align="center">
 <a href="https://wiki.osdev.org/Expanded_Main_Page"><img src="https://github.com/user-attachments/assets/a3eafd3c-ab4f-4fbf-b4a4-68d44a2ba27c" alt="something" width="120" /></a>
 <a href="https://en.wikipedia.org/wiki/Serial_Experiments_Lain"><img src="https://github.com/user-attachments/assets/f1321582-5ab1-4e95-800c-a0734d65b286" alt="lain" width="120" /></a>
