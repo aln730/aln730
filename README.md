@@ -2,19 +2,9 @@
 <p align="center"><strong>CS Major · CE Minor · Network Goblin™ · Microcontroller Menace</strong></p>
 
 ---
-
-<h3 align="center">🛠️ Tech Stack & Interests 🛠️</h3>
-
-<p align="center">
-  <strong>Languages:</strong> Python · Go · Java · C/C++ · Rust · SQL<br>
-  <strong>Interests:</strong> Embedded Systems · Networking · Machine Learning · Operating Systems <br>
-  <strong>Tools:</strong> Docker · OKDShift · WebSockets · Git · Kubernetes<br>
-  <strong>Microcontrollers:</strong> ESP32 · Raspberry Pi · Arduino
-</p>
 <h3 align="center">
   <a href="https://zxcvhq.dev/">zxcvhq.dev</a>
 </h3>
-
 ---
 <div align="center">
 <a href="https://wiki.osdev.org/Expanded_Main_Page"><img src="https://github.com/user-attachments/assets/a3eafd3c-ab4f-4fbf-b4a4-68d44a2ba27c" alt="something" width="120" /></a>
