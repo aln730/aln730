@@ -17,7 +17,6 @@
 
 ---
 <div align="center">
-<a href="https://neovim.io/"><img src="https://github.com/user-attachments/assets/08f1f930-ec86-4847-97b7-49b52037d837" alt="vim" width="120" /></a>
 <a href="https://wiki.osdev.org/Expanded_Main_Page"><img src="https://github.com/user-attachments/assets/a3eafd3c-ab4f-4fbf-b4a4-68d44a2ba27c" alt="something" width="120" /></a>
 <a href="https://en.wikipedia.org/wiki/Serial_Experiments_Lain"><img src="https://github.com/user-attachments/assets/f1321582-5ab1-4e95-800c-a0734d65b286" alt="lain" width="120" /></a>
 <a href="https://distrowatch.com/table.php?distribution=dietpi"><img src="https://github.com/user-attachments/assets/6c9be2ec-ce0f-4b3e-a278-0df690ff704a" alt="distrowatch" width="120" /></a>
